@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  Cek Websitenya <a href="https://allxddev-gemini.vercel.app/">Klik Saya</a>
+  Cek Websitenya <a href="https://gemini-cloneallxddev.vercel.app/">Klik Saya</a>
 </p>
 
 <p align="center">
